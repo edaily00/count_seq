@@ -1,5 +1,9 @@
+#Eric Daily
+#Github Username: edaily00
+#Date: 7/30/2022
+#This program counts the numbers in a sting
 def count_seq():
-
+"""This functions runs forever and starts off by yielding the number to be counted"""
     num = "2"
 
     while 0 == 0:
